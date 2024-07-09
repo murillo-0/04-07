@@ -1,0 +1,46 @@
+.conteudo {
+    border: 10px solid black;
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 20px;
+}
+
+#Descricao{
+    color: rgb(82, 80, 80);
+}
+
+#Titulo{
+    color: rgb(82, 80, 80);
+}
+
+#Informacao{
+    color: rgb(82, 80, 80);
+}
+
+#Informacao1{
+    color: rgb(82, 80, 80);
+}
+
+body{
+     background-color: rgb(236, 236, 236);
+}
+
+#botao{
+    background-color: rgb(160, 162, 163);
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.possivel{
+    border-color: rgb(160, 162, 163);
+    border-width: 20px;
+    border-style: solid;
+    height: 170px;
+}
+
+#Jr{
+    color: rgb(82, 80, 80);
+}
